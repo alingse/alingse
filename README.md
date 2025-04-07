@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-It's me, alingse (阿林). 
+It's me, alingse. 
 
-- 🤖 a senior backend engineer in China.
+- 🤖 a backend engineer in China.
 - 😬 programming with go / python / typescript and others ...
 - 😍 love open source and keep coding 
 - 🤔 I’m currently learning everything
