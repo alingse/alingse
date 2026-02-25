@@ -12,10 +12,10 @@ It's me, alingse.
 #### AI & Agent Related
 
 - **[ai-cli-log](https://github.com/alingse/ai-cli-log)** - Log AI coding sessions (Claude/Gemini) to Markdown for easy review
-- **[ankiany](https://github.com/alingse/ankiany)** - AI-powered Anki card generator with web UI -> [ankiany.starsou.com](https://ankiany.starsou.com/)
+- **[ankiany](https://github.com/alingse/ankiany)** - AI-powered Anki card generator with web UI (Agent) -> [ankiany.starsou.com](https://ankiany.starsou.com/)
 - **[human-review](https://github.com/alingse/human-review)** - Browser-based code review tool for AI coding workflows
-- **[mgxdemo](https://github.com/alingse/mgxdemo)** - AI coding platform demo -> [aeio.starsou.com](https://aeio.starsou.com/)
-- **[knowzero](https://github.com/alingse/knowzero)** - AI knowledge exploration from zero -> [knowzero.starsou.com](https://knowzero.starsou.com/)
+- **[mgxdemo](https://github.com/alingse/mgxdemo)** - AI coding platform (Agent) -> [aeio.starsou.com](https://aeio.starsou.com/)
+- **[knowzero](https://github.com/alingse/knowzero)** - AI knowledge exploration from zero (Agent) -> [knowzero.starsou.com](https://knowzero.starsou.com/)
 - **[findissue](https://github.com/alingse/findissue)** - Semantic clustering and insights from GitHub Issues
 - **[golangci-lint-skills](https://github.com/alingse/golangci-lint-skills)** - skills for golangci-lint setup and fix
 - **[dev-command](https://github.com/alingse/dev-command)** - Claude Code universal dev commands
