@@ -19,6 +19,7 @@ It's me, alingse.
 - **[findissue](https://github.com/alingse/findissue)** - Semantic clustering and insights from GitHub Issues
 - **[golangci-lint-skills](https://github.com/alingse/golangci-lint-skills)** - skills for golangci-lint setup and fix
 - **[dev-command](https://github.com/alingse/dev-command)** - Claude Code universal dev commands
+- **[qodercli-reverse](https://github.com/alingse/qodercli-reverse)** - Reverse-engineered qodercli (AI coding CLI), compilable and runnable
 - **[lineno-remover](https://github.com/alingse/lineno-remover)** - Strip line numbers from LLM-generated code
 - **[sentry-api-mcp](https://github.com/alingse/sentry-api-mcp)** - Lightweight MCP wrapper for Sentry API
 - **[half-json](https://github.com/half-pie/half-json)** - Fault-tolerant JSON repair for broken/invalid JSON
